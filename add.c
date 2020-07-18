@@ -5,5 +5,6 @@ int main()
     a=6;
     b=7;
     printf("%d",a-b);
+    printf("ghjhgf");
     return 0;
 }
